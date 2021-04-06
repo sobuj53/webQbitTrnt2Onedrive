@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/sobuj53/webQbitTrnt2Onedrive/blob/main/WebQbittorrent_2_Onedrive.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sobuj53/webQbitTrnt2Onedrive/blob/main/WebQbittorrent_2_Onedrive.ipynb)
 
 # webQbitTrnt2Onedrive
 Using power of colab to torrent with powerful web interface of qbittorrent directly to OneDrive

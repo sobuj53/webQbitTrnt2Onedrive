@@ -9,4 +9,4 @@ After running 1, 2, and 4 field, you'll get a link for web UI of qbittorrent as 
 
 ##
 It's only for educational purposes and meant to help you for downloading legal content. You're solely responsible for your actions and usages of this notebook.  
-DO NOT ABUSE OR ELSE YOUR ACCOUNT MIGHT BE BANNED ¯\_(ツ)_/¯. 
+DO NOT ABUSE OR ELSE YOUR ACCOUNT MIGHT BE BANNED 🤷! 

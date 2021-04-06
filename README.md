@@ -8,5 +8,5 @@ The use of this notebook very straightforward. Download `WebQbittorrent_2_Onedri
 After running 1, 2, and 4 field, you'll get a link for web UI of qbittorrent as output, like `https://*.ngrok.io` you'll need to copy that link and open it in a separate tab, direct click won't work. Once it is opened, it's not mandatory to have the colab tab opened while torrenting using webUI.
 
 ##
-It's only for educational purposes and meant to help you for downloading legal content. You're solely responsible for your actions and usages of this notebook.
+It's only for educational purposes and meant to help you for downloading legal content. You're solely responsible for your actions and usages of this notebook.  
 DO NOT ABUSE OR ELSE YOUR ACCOUNT MIGHT BE BANNED ¯\_(ツ)_/¯. 
